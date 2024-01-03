@@ -8,9 +8,8 @@ import numpy as np
 from PIL import Image
 
   
-
     # Open the image file using PIL
-image = Image.open("bacterial-spot-tomato.jpg")
+image = Image.open("Screenshot 2024-01-03 042816.png")
 
     # Resize the image
 resized_image = image.resize((500, 300))
