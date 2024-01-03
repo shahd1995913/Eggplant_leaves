@@ -19,15 +19,20 @@ st.image(resized_image, caption='Resized Image')
 
 
 class_names = [
-    'Tomato blight disease',
-    'Bacterial spot',
-    'Tomato Yellow Leaf Curl Virus',
-    'Tomato mosaic virus',
-    'Target Spot',
-    'Powdery mildew',
-    'Spider mites Two spotted spider mite'
+    'Eggplant, Mite, and Epilachna Beetle',
+    'Eggplant - Mite',
+    'Eggplant - Jassid',
+    'Eggplant - Epilachna Beetle',
+    'Eggplant - Nitrogen and Potassium Deficiency',
+    'Eggplant - Nitrogen Deficiency',
+    'Eggplant - Potassium Deficiency',
+    'Augmented Insect Pest Disease',
+    'Augmented Leaf Spot Disease',
+    'Augmented Mosaic Virus Disease',
+    'Augmented Wilt Disease',
+    'Augmented White Mold Disease',
+    'Downy mildew'
 ]
-
 model = keras.models.load_model('keras_model.h5')
 
 def preprocess_image(image):
