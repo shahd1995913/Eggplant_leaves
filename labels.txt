@@ -1,0 +1,13 @@
+0 Eggplant, Mite, and Epilachna Beetle
+1 Eggplant - Mite
+2 Eggplant - Jassid
+3 Eggplant - Epilachna Beetle
+4 Eggplant - Nitrogen and Potassium Deficiency
+5 Eggplant - Nitrogen Deficiency
+6 Eggplant - Potassium Deficiency
+7 Augmented Insect Pest Disease
+8 Augmented Leaf Spot Disease
+9 Augmented Mosaic Virus Disease
+10 Augmented Wilt Disease
+11 Augmented White Mold Disease
+12 Downy mildew
